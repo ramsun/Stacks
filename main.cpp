@@ -4,7 +4,7 @@ Fall 2018
 
 main.cpp
 
-Driver for Machine Problem 4.  This programs will showcase 
+Driver for the program.  This programs will showcase 
 the usefullness of stacks as a data structure.
 
 There are 3 operations this driver will perform.  First, it will reverse a
