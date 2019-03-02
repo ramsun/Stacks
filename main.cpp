@@ -1,7 +1,5 @@
 /*
 Ramamurthy Sundar
-Fall 2018
-
 main.cpp
 
 Driver for the program.  This programs will showcase 
