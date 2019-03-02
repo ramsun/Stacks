@@ -1,7 +1,5 @@
 /*
 Ramamurthy Sundar
-Fall 2018
-
 class.h
 
 A definition of the stack data structure.  The stack uses a deque in the backend.  
